@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaciejDolecki
 - 👀 I’m interested in Web sites
 - 🌱 I’m currently learning JavaScript and HTML
-- 💞️ I’m looking to collaborate on some good page
+- 💞️ I’m looking to collaborate on a good website
 - 📫 How to reach me? The easiest way is to send email: wegoosh@wp.pl
 
 <!---
